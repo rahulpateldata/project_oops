@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="project_oops:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/project_oops_jar</output-path>
+    <root id="archive" name="project_oops.jar">
+      <element id="module-output" name="project_oops" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
